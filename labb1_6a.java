@@ -1,9 +1,12 @@
-package sommar2015;
+//Author: Edvin Wahlberg 910721
+// Labb 1 Uppgift 6a(for-loop)
 
 import java.util.Scanner;
 
 public class labb1_6a 
 {
+//fun main
+//prints out all integers up to the input integer, input must be greater than 0. 
 	public static void main(String[] args)
 	{
 		int countdown_int;
