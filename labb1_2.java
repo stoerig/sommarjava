@@ -1,5 +1,4 @@
-package sommar2015;
-//Author: Edvin Wahlberg
+//Author: Edvin Wahlberg 910721
 //Labb 1 Uppgfit 2
 
 import java.util.Scanner;
