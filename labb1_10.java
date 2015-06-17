@@ -1,8 +1,10 @@
-package sommar2015;
-
+//Author: Edvin Wahlberg 910721
+//Labb 1 Uppgift 10
 import java.util.Scanner;
 
 public class labb1_10 {
+//fun Prints out the number of days that are in the users input month. 1 being January and so forth. 
+//Input 0 terminates the program.
 	public static void main(String[] args)
 	{
 		int input_month;
