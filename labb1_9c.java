@@ -1,8 +1,9 @@
-package sommar2015;
+//Author: Edvin  Wahlberg
+//Labb 1 Uppgift 9c
 
 public class labb1_9c
 {
-
+//Prints out the sum of all even numbers between 0-200. Using a do-while-loop.
 	public static void main(String[] args)
 	{
 		int acc = 0;
