@@ -1,9 +1,12 @@
-package sommar2015;
+//Author: Edvin Wahlberg 910721
+// Labb 1 Uppgift 8
 
 import java.util.Scanner;
 
 public class labb1_8
 {
+//fun main
+//prints out the multiplication table of user's input integer. The amount of cases from the table is determined by the user
 	public static void main(String[] args)
 	{
 		int multiple;
