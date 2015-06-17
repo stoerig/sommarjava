@@ -1,9 +1,10 @@
-package sommar2015;
-
+//Author: Edvin Wahlberg 910721
+//Labb 1 Uppgift 7
 import java.util.Scanner;
 
 public class labb1_7 {
-
+//fun main
+//Uses input integers a, b and c in 5 different boolean cases.
 	public static void main(String[] args)
 	{
 		int a;
