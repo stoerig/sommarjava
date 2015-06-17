@@ -1,9 +1,11 @@
-package sommar2015;
-
+//Author: Edvin Wahlberg 910721
+//Labb 1 Uppgift 5
 import java.util.Scanner;
 
 public class labb1_5
 {
+//fun main
+//prints out all integers up to input integer. Input integer has to be greater than 0.
 	public static void main(String[] args)
 	{
 		int countdown_int;
