@@ -1,10 +1,11 @@
-package sommar2015;
-
+//Author: Edvin Wahlberg 910721
+// Labb 1 Uppgift 4
 import java.util.Scanner;
 
 public class labb1_4
 {
-	
+// fun main
+// prints out input integer if it's greater or equal to 0
 	public static void main(String[] args)
 	{
 		int age;
