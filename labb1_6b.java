@@ -1,9 +1,11 @@
-package sommar2015;
-
+//Author: Edvin Wahlberg
+//Labb 1 Uppgift 6B(Do-while loop)
 import java.util.Scanner;
 
 public class labb1_6b
 {
+//fun main
+//prints out all integers leading up to the input integer. Integer must be greater than 0.
 	public static void main(String[] args)
 	{
 		int countdown_int;
