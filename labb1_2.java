@@ -1,11 +1,13 @@
 package sommar2015;
 //Author: Edvin Wahlberg
-//Labb 1 Uppgfit 1
+//Labb 1 Uppgfit 2
 
 import java.util.Scanner;
 
 public class labb1_2 
 {
+	//Fun main
+	// Prints out the sum, product and mean of input integers a, b and c
 	public static void main(String[] args)
 	{
 	int a;
