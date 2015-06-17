@@ -1,9 +1,11 @@
-package sommar2015;
-
+//Edvin Wahlberg 910721
+//Labb 1 Uppgift 3
 import java.util.Scanner;
 
 public class labb1_3 {
 
+//fun main
+//converts input float in mil to kilometers
 	public static void main(String[] args){
 		float inputMil;
 		@SuppressWarnings("resource")
