@@ -1,8 +1,9 @@
-package sommar2015;
-//Author: Edvin Wahlberg
+//Author: Edvin Wahlberg 910721
 // Labb 1 Uppgfit 1
 public class labb1_1 
 {
+//fun main
+//prints out different types of data
 	public static void main(String[] args)
 	{
 	boolean data1 = true;
